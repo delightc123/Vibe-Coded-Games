@@ -17,40 +17,76 @@ A curated list of vibe-coded games: playable games built with AI coding agents l
   - [Arcade & Retro](#arcade--retro)
 - [Tools & Frameworks](#tools--frameworks)
 - [Directories](#directories)
+- [Related Lists](#related-lists)
+- [Contributing](#contributing)
 
 ## Games
 
 ### Action & Shooters
 
 - [AI Bomber Game](https://bomberman-bice.vercel.app/) - Bomberman-style 3D arena where you drop bombs to clear crates and enemies, with switchable bomb types. Built with Three.js.
+- [Astral War](https://astralwar.io/) - Inspired by Call of Duty: World at War. GPT-6 Astra Ultra browser FPS with multiplayer lobbies, bots, perks, controller support, and voice chat.
+  <br><img src="images/astral-war.webp" width="480" alt="Astral War gameplay">
+- [Claude of Duty](https://ericspencer.us/Claude-of-Duty/) - Fast-paced Call of Duty-style FPS with procedural audio, aiming down sights (ADS), lean mechanics, and reactive AI bots. Built with Three.js · WebGL2.
+  <br><img src="images/claude-of-duty.webp" width="480" alt="Claude of Duty gameplay">
+- [Claude of Duty: Vibe Slops II](https://vibeslops.luckeysystems.com/) - Tactical multiplayer-style FPS inspired by Call of Duty: Black Ops II featuring map geometry exports and snappy gunplay. Built with Three.js.
+  <br><img src="images/vibe-slops-ii.webp" width="480" alt="Claude of Duty: Vibe Slops II gameplay">
 - [ClaudeSpace](https://ladegeraet.github.io/claudespace/) - Top-down space shooter with shields and shockwaves against asteroids and enemy ships. Built with Phaser.
 - [CODMUSE](https://cod-muse.vercel.app/) - Tactical 3D browser first-person shooter prototype with procedural environments and weapon handling. Built with Three.js.
 - [CSAnyWhere](https://csany.vercel.app) - Counter-Strike-style shooter with aim drills, spray practice and a Dust II bot deathmatch. Built with Three.js.
 - [DOOMscroll](https://gisnep.com/doomscroll/) - Doom-style shooter you control only by scrolling, with real news headlines on the in-game plaques. Built with GPT-5 · HTML5 Canvas.
+- [Doodle District](https://doodleshooter.vercel.app/) - Stylized browser shooter with hand-drawn doodle aesthetic and lively enemy waves. Built with Three.js.
+  <br><img src="images/doodle-district.webp" width="480" alt="Doodle District gameplay">
 - [Dyson Defender](https://dyson-defender.vercel.app/) - Fly around a Dyson sphere and shoot down waves of alien ships before they reach it. Built with Cursor, Claude, Grok, gptme · Three.js.
 - [Eyrie](https://playeyrie.com/) - Drop-in co-op wave roguelike where you catch spirits, feed the shrine and fight the obelisk. Vibe Jam 2026 Most Atmospheric award. Built with Three.js.
 - [FragByte](https://www.fragbyte.fun/) - Valorant-inspired arena shooter against enemy waves, with a katana parry and a grappling hook. Built with Three.js.
 - [KÖTTBULLAR METAL](https://kottbullar-metal.vercel.app/) - Survive 15 minutes in a mosh pit where the death metal lyrics are IKEA product names. Vibe Jam 2026 Funniest Game award. Built with HTML5 Canvas.
-- [Modern Claudefare](https://www.modernclaudefare.com/) - Free browser-based multiplayer tactical FPS inspired by classic Modern Warfare. Built with Three.js.
+- [Modern Claudefare](https://www.modernclaudefare.com/) - Free browser-based multiplayer tactical FPS inspired by classic Modern Warfare (Rust, Nuketown, Terminal) with bot matches and up to 4-player voice lobbies. Built with Three.js.
+  <br><img src="images/modern-claudefare.webp" width="480" alt="Modern Claudefare gameplay">
 - [Null Range](https://nullrange.com/) - Multiplayer first-person space dogfights inspired by Elite: Dangerous, with sonar, boost and lasers. Vibe Jam 2026 Best Art Direction award. Built with Cursor · Three.js.
+- [Operation Ironhold](https://starknightt.github.io/operation-ironhold/) - High-intensity FPS created with Claude Opus featuring 4 weapons, ADS recoil mechanics, tactical cover, and intelligent AI flanking squads.
+  <br><img src="images/operation-ironhold.webp" width="480" alt="Operation Ironhold gameplay">
 - [Quasar Saz](https://github.com/cleak/quasar-saz/releases/tag/v1.1) - Six-stage action game with a boss fight that Claude Code designed from a dog's random keystrokes. Built with Claude Code · Godot.
+- [Super Smash Royale](https://smashroyale.io) - Browser battle royale brawler inspired by Super Smash Bros., featuring 45 selectable characters, gamepad support, and multiplayer lobbies. Built with GPT-6 Astra · Three.js.
+  <br><img src="images/super-smash-royale.webp" width="480" alt="Super Smash Royale gameplay">
 - [Swingers](https://swing.offmylawn.com/) - Swing through a city with friends and compete to cause the most damage to critical infrastructure. Vibe Jam 2026 Most Unhinged award. Built with Three.js.
 - [Tanks AI](https://tanksai.com/) - Top-down tank battles across tiled terrain, with enemy tanks to destroy and power-ups to collect. Built with HTML5 Canvas.
+- [Three.js Descent](https://mrdoob.github.io/three-descent/) - 6-degree-of-freedom zero-gravity space shooter port of Descent Episode 1 running entirely in the browser. Built with Three.js.
+  <br><img src="images/threejs-descent.webp" width="480" alt="Three.js Descent gameplay">
 - [Three.js Quake](https://mrdoob.github.io/three-quake/) - Quake's shareware episode ported to the browser by the creator of Three.js. Built with Claude · Three.js.
+  <br><img src="images/threejs-quake.webp" width="480" alt="Three.js Quake gameplay">
 - [Undersphere](https://playundersphere.com/) - Multiplayer FPS fought on the inside of a spherical world with shifting gravity. Vibe Jam 2026 Unique Concept award. Built with Three.js.
+- [Voxpolia](https://endstreet.itch.io/voxpolia) - Voxel-rendered low-poly FPS set in a destructible urban cityscape with responsive gunplay. Built with Three.js.
+  <br><img src="images/voxpolia.webp" width="480" alt="Voxpolia gameplay">
 
 ### Racing & Vehicles
 
+- [APEX / Coast Run](https://apex-coast-run.mindblown.ai) - Need for Speed-inspired coastal arcade racer with dynamic physics and dual mobile/desktop performance modes. Built with Three.js.
+  <br><img src="images/apex-coast-run.webp" width="480" alt="APEX / Coast Run gameplay">
+- [Cycle](https://cycle.ui8.dev) - Stylized 3D urban bicycle riding simulation through responsive city streets. Built with Forge, GPT-6 Astra · Three.js.
+  <br><img src="images/cycle.webp" width="480" alt="Cycle gameplay">
 - [Draw Line Racing](https://drawlineracing.chyuang.com/) - Draw a racing line around country-shaped circuits, then watch your car drive it against the clock. Built with HTML5 Canvas.
 - [Fanto's Mega-Mart](https://fantos-megamart.vercel.app/) - Multiplayer shopping race at rocket speed through a haunted grocery store, with ghost replays. Vibe Jam 2026 2nd place. Built with Codex · Three.js.
 - [Flight Simulator 2025](https://fly.pieter.com/) - Multiplayer flight sim where you take off, fly over a shared world and dogfight other players. Built with Cursor, Grok 3 · Three.js.
+  <br><img src="images/flight-simulator-2025.webp" width="480" alt="Flight Simulator 2025 gameplay">
 - [Formula Minus One](https://fm1.moises.cloud/) - Futuristic racer inspired by F-Zero and Wipeout, rendered with WebGPU. Built with Codex, Claude · Three.js.
 - [FULL SEND](https://fullsend.game/) - Instant-loading racer with scenery from OpenStreetMap, online multiplayer and lap leaderboards. Vibe Jam 2026 Most Portal Transfers award. Built with Cursor, Claude · HTML5 Canvas.
+- [Hop.Earth](https://hop.earth/) - Need for Speed crossed with Google Earth: open-world driving across real OpenStreetMap terrain with parachute drops and multiplayer races. Built with Three.js · WebGL.
+  <br><img src="images/hop-earth.webp" width="480" alt="Hop.Earth gameplay">
+- [Kart Royale](https://racing.ryancampbell.com/) - Fast-paced Mario Kart-inspired browser kart racer built with Opus 5, tuned for tight cornering and cross-device performance.
+  <br><img src="images/kart-royale.webp" width="480" alt="Kart Royale gameplay">
 - [Lift & Coast](https://lift-and-coast.vercel.app/) - Race a 2026-rules Formula One car on real circuits through a full race weekend, managing tires, ERS and weather. Built with Three.js.
 - [Mars Landing Simulator](https://marslanding.vercel.app/) - Fly a rocket between Mars bases, managing fuel, tilt and wind to land safely. Built with Three.js.
+- [NFTURBO](https://nfturbo.polaris.city/) - Arcade 3D kart racing game with colorful drift tracks and instant browser matchmaking. Built with Codex, Claude · Three.js.
+  <br><img src="images/nfturbo.webp" width="480" alt="NFTURBO gameplay">
+- [Rocket Arena](https://rl-opus5.vercel.app/) - Rocket League-style vehicular soccer featuring Rapier physics simulation, AI bots, gamepad control, and multiplayer sync. Built with Three.js.
+  <br><img src="images/rocket-arena.webp" width="480" alt="Rocket Arena gameplay">
+- [Storm Race](https://storm-race.vercel.app) - 3D mini 4WD childhood racing homage featuring customizable vehicles, aerodynamic tracks, and a custom racing HUD. Built with GPT-6 Astra · Three.js.
+  <br><img src="images/storm-race.webp" width="480" alt="Storm Race gameplay">
 - [Swervle](https://swervle.com/) - Wordle-style racing game with a new procedurally generated 90-second route every day. Built with GPT-5.6, Claude Opus 5 · Three.js.
 - [The Great Taxi Assignment](https://great-taxi-assignment.netlify.app/) - GTA-style taxi game where you ferry passengers across a 3D city before time runs out. Vibe Jam 2025 winner. Built with Cursor, Claude 3.7 Sonnet · Three.js.
-- [VibeSail](https://vibesail.com/) - Multiplayer sailing sim where you trim the sail to the wind, race daily and explore islands. Built with Cursor, Claude 3.7 Sonnet · Three.js.
+- [VibeSail](https://vibesail.com/) - Multiplayer sailing sim where you trim the sail to the wind, race daily, and explore global waters with Google 3D map tiles. Built with Cursor, Claude 3.7 Sonnet · Three.js.
+  <br><img src="images/vibesail.webp" width="480" alt="VibeSail gameplay">
 
 ### Adventure & Open Worlds
 
@@ -61,21 +97,31 @@ A curated list of vibe-coded games: playable games built with AI coding agents l
 - [Legends of Future Past](https://lofp.metavert.io/) - Lost 1992 CompuServe multiplayer adventure, rebuilt from surviving scripts, manuals and recordings. Built with Claude Code.
 - [San Francisco -- The Game](https://sf.thijs.gg/) - Explore San Francisco rebuilt from Apple Maps data: climb buildings, take cars and play with others. Built with Codex · Three.js.
 - [Stellar Drift](https://stellar-drift.web.app/) - Mine asteroids for iron, gold and crystal, upgrade your ship and travel through wormholes. Built with Three.js.
+- [The Long Silence](https://longsilence.anshu.dev/) - Atmospheric space exploration odyssey inspired by Outer Wilds, featuring ship piloting, EVA spacewalks, and seamless planetary landings with zero external assets. Built with Three.js · WebGL2.
+  <br><img src="images/the-long-silence.webp" width="480" alt="The Long Silence gameplay">
 - [Tiny Skies](https://tinyskies.vercel.app/) - Cozy multiplayer exploration of a tiny world by biplane, magic carpet or boat. Vibe Jam 2026 Most Polished award. Built with Cursor · Three.js.
+  <br><img src="images/tiny-skies.webp" width="480" alt="Tiny Skies gameplay">
+- [Vesperfall](https://vesperfall.mengto.chatgpt.site) - Diablo-inspired isometric action RPG with dark gothic lighting, real-time spellcasting, monster swarms, and fluid combat. Built with Three.js.
+  <br><img src="images/vesperfall.webp" width="480" alt="Vesperfall gameplay">
 - [World of ClaudeCraft](https://worldofclaudecraft.com/) - Open-source, classic-style browser MMORPG with nine classes, quests, dungeons, raids and PvP. Has an optional crypto token. Built with Claude · Three.js.
 
 ### Simulation & Strategy
 
 - [AI2U - Guns & Girlfriends](https://helixngc7293.itch.io/gandg) - Red Alert-style strategy game with base building, nukes and three rival factions. AI Browser Game Jam 4 runner-up. Built with Claude Code, Gemini · Three.js.
+- [Alder Valley Rail Atelier](https://alder-valley-rail-atelier.nickfromlater.chatgpt.site) - Tactile model-railroad workshop simulation where you route trains, design track layouts, and manage miniature switches. Built with Astra · Three.js.
+  <br><img src="images/alder-valley-rail-atelier.webp" width="480" alt="Alder Valley Rail Atelier gameplay">
 - [Almost Surgery](https://almostsurgery.ragim.dev/) - Darkly comic surgery sim where you saw, cut and electrocute patients for money. Vibe Jam 2026 Most Cursed award. Built with Godot.
 - [Emoji Sim](https://emojisim.com/) - Watch emoji villagers gather wood, wool and meat, and place buildings to grow the village. Built with HTML5 Canvas.
 - [Firewood Splitting Simulator](https://screen.toys/firewood/) - Tactile wood-chopping toy with a 3D-scanned stump, axe and logs, plus recorded sounds. Built with Claude · Three.js.
+  <br><img src="images/firewood-splitting-simulator.webp" width="480" alt="Firewood Splitting Simulator gameplay">
 - [Fishing](https://fishing.lureconcept.com/) - Sail across the open sea, cast lures for fish and spend coins on new lures. Built with Cursor, Claude, Grok · Three.js.
 - [Kanso](https://www.kansogame.com/) - Cultivate living digital bonsai trees in calm, detailed scenes. Vibe Jam 2026 Most Zen award. Built with Three.js.
 - [Macro Data Refinement](https://macro-data-refinement-five.vercel.app/) - Sort scary numbers into bins on a Lumon terminal, recreating the Macrodata Refinement work from Severance.
 - [Orbits](https://onomeo.com/demo/orbits.html) - Gravity sandbox where you fling planets around a sun and watch them settle into stable paths or fall into the sun. Built with Claude Code · HTML5 Canvas.
 - [Plug & Prosper](https://smallloopworks.itch.io/plug-prosper) - Run a charging kiosk, wiring customers' devices into wall sockets with cables and adapters, and upgrade the shop between days. AI Browser Game Jam 4 winner. Built with Codex · Godot.
 - [Pyramid Wars](https://durian-arcade.itch.io/pyramid-wars) - Pixel-art clicker strategy game across ten battlefields, with booster packs of unit and ability cards. AI Browser Game Jam 3 winner. Built with Claude Opus.
+- [Starfall](https://e01.ai/starfall/) - Homeworld-inspired 3D fleet strategy RTS set across an expansive galaxy with tactical fleet commands. Built with Three.js.
+  <br><img src="images/starfall.webp" width="480" alt="Starfall gameplay">
 - [Vector Tango](https://www.vector-tango.com/play/) - 3D air traffic control simulator where you guide planes through busy airspace. Vibe Jam 2025 3rd place. Built with Three.js.
 
 ### Puzzle, Word & Trivia
@@ -85,11 +131,15 @@ A curated list of vibe-coded games: playable games built with AI coding agents l
 - [GeoSports](https://geosports.app/) - Daily sports-geography quiz where you pin the locations behind five trivia questions on a map. Built with Claude.
 - [Grid Golf](https://gridgolf.netlify.app/) - Grid-based golf where you pick one of eight directions, get random shot power and try to finish under par. Built with HTML5 Canvas.
 - [Ink Side Down](https://arkai.win/games/ink-side-down/) - Daily logic puzzle where you roll a cube so its inked face prints only the marked squares. Designed and coded end-to-end by an autonomous AI agent. Built with Claude Code · HTML5 Canvas.
+- [King's Gambit](https://medieval-3d-chess.rork.app/) - Medieval 3D chess simulation featuring animated piece battles and full browser playability.
+  <br><img src="images/kings-gambit.webp" width="480" alt="King's Gambit gameplay">
 - [One Step Late](https://arkai.win/games/one-step-late/) - Daily logic puzzle where your shadow repeats your previous move and walks into the holes you avoid. Designed and coded end-to-end by an autonomous AI agent. Built with Claude Code · HTML5 Canvas.
 - [Suika Game](https://suika.live/) - Drop and merge fruits in a physics jar to grow ever bigger fruits, with leaderboards. Built with Cursor, Claude · Matter.js.
 - [Tic-Tac Cricket](https://tictaccricket.netlify.app/) - Roll dice for cricket runs and place them on a 3×4 grid, where lines of three earn bonus runs.
 - [Tidal Loom](https://waytzhang.github.io/tidal-loom/) - Rotate channels on three floating islands to bring water to every garden without spills. Built with Codex · Three.js.
 - [Type Battles](https://www.typebattles.com/) - Typing game with combos, shields, ten levels, a final boss and daily challenges.
+- [Waldo](https://waldo.brutefloat.com) - First-person 3D crowd search game where you navigate through moving pedestrians to find Waldo. Built with Claude · Three.js.
+  <br><img src="images/waldo.webp" width="480" alt="Waldo gameplay">
 - [WenWare](https://wen-ware.com/) - Time-travel GeoGuessr: explore 360° historical scenes and guess both the place and the year. Vibe Jam 2026 3rd place and Most Played award. Built with Codex · Three.js.
 - [Wildlife](https://wildlife-game.netlify.app/) - Tap groups of matching colored tiles within 25 turns, where bigger groups score more.
 - [Word God](https://www.experimentswithai.com/word-god-mindfulness-game.html) - Combine words, starting from primordial concepts, to unlock new ones and grow a universe.
@@ -98,10 +148,14 @@ A curated list of vibe-coded games: playable games built with AI coding agents l
 
 - [Asteroid Assault](https://asteroid-ep9.pages.dev/) - Asteroids remake where you rotate, thrust and shoot rocks, grab power-ups and chase a global leaderboard. Built with HTML5 Canvas.
 - [BeetleJump](https://beetlejump.com/) - Multiplayer platformer race to climb to the top and become king. Vibe Jam 2026 Rage-Quit award. Built with Three.js.
+- [Claybound](https://claybound-56949.web.app/) - Claymation-styled 3D platformer packed with obstacles, hazards, and collectible coins. Built with Three.js.
+  <br><img src="images/claybound.webp" width="480" alt="Claybound gameplay">
 - [Flappi Bird](https://flappi-bird.vercel.app/) - Flappy Bird in 3D with procedural obstacles, bee swarms, combos and power-ups. Built with Cursor, Claude, Grok · Three.js.
 - [Ophidian](https://ophidian.vercel.app/) - Minimalist Snake with on-screen arrow keys for mobile. Built with Claude · PixiJS.
 - [Oyster Arcade](https://arcade.oyster.to/) - CRT-style arcade cabinet with four games, including Invaders and Carrier Defense, and shared leaderboards. Built with Claude Code · HTML5 Canvas.
 - [Pocket Salvage](https://pocket-salvage.web.app/) - Drive a swinging crane, swap between a magnet and a claw, and sort scrap into bins before the clock runs out, through five weather levels. Built with Claude, Codex · Godot.
+- [Pocket Skatepark](https://studio.sandbox.game/play/0ab9fde7-b8e3-419a-8bf7-7b9c971d6232) - Cel-shaded 3D city skatepark with trick combos, score attack challenges, and customizable park lines. Built with Three.js · Sandbox Studio.
+  <br><img src="images/pocket-skatepark.webp" width="480" alt="Pocket Skatepark gameplay">
 - [Pong Arcade](https://pong-game-omega.vercel.app/) - Retro Pong against the computer or a second local player, with touch controls on mobile. Built with HTML5 Canvas.
 - [Space Defenders](https://jasonleow.com/space-defenders/) - Space Invaders-style shooter generated from a single prompt. Built with Claude 3.7 Sonnet · HTML5 Canvas.
 - [Super Jumper](https://super-jumper-game.web.app/) - Mario-style platformer level with physics jumping, enemies, boost items and a finish line. Built with Matter.js.

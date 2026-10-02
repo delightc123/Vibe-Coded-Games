@@ -8,11 +8,10 @@ Thumbs.db
 .idea/
 
 # Context references
-.context/
-.context/awesome-ai-built-games/
+/.context/
 
 # Memory system & agent orchestration
-.memory/
-memory.md
-AGENTS.md
-.rules/
+/.memory/
+/memory.md
+/AGENTS.md
+/.rules/
