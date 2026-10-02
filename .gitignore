@@ -1,0 +1,18 @@
+# OS & Editors
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Context references
+.context/
+.context/awesome-ai-built-games/
+
+# Memory system & agent orchestration
+.memory/
+memory.md
+AGENTS.md
+.rules/
