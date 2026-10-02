@@ -24,12 +24,14 @@ A curated list of vibe-coded games: playable games built with AI coding agents l
 
 - [AI Bomber Game](https://bomberman-bice.vercel.app/) - Bomberman-style 3D arena where you drop bombs to clear crates and enemies, with switchable bomb types. Built with Three.js.
 - [ClaudeSpace](https://ladegeraet.github.io/claudespace/) - Top-down space shooter with shields and shockwaves against asteroids and enemy ships. Built with Phaser.
+- [CODMUSE](https://cod-muse.vercel.app/) - Tactical 3D browser first-person shooter prototype with procedural environments and weapon handling. Built with Three.js.
 - [CSAnyWhere](https://csany.vercel.app) - Counter-Strike-style shooter with aim drills, spray practice and a Dust II bot deathmatch. Built with Three.js.
 - [DOOMscroll](https://gisnep.com/doomscroll/) - Doom-style shooter you control only by scrolling, with real news headlines on the in-game plaques. Built with GPT-5 · HTML5 Canvas.
 - [Dyson Defender](https://dyson-defender.vercel.app/) - Fly around a Dyson sphere and shoot down waves of alien ships before they reach it. Built with Cursor, Claude, Grok, gptme · Three.js.
 - [Eyrie](https://playeyrie.com/) - Drop-in co-op wave roguelike where you catch spirits, feed the shrine and fight the obelisk. Vibe Jam 2026 Most Atmospheric award. Built with Three.js.
 - [FragByte](https://www.fragbyte.fun/) - Valorant-inspired arena shooter against enemy waves, with a katana parry and a grappling hook. Built with Three.js.
 - [KÖTTBULLAR METAL](https://kottbullar-metal.vercel.app/) - Survive 15 minutes in a mosh pit where the death metal lyrics are IKEA product names. Vibe Jam 2026 Funniest Game award. Built with HTML5 Canvas.
+- [Modern Claudefare](https://www.modernclaudefare.com/) - Free browser-based multiplayer tactical FPS inspired by classic Modern Warfare. Built with Three.js.
 - [Null Range](https://nullrange.com/) - Multiplayer first-person space dogfights inspired by Elite: Dangerous, with sonar, boost and lasers. Vibe Jam 2026 Best Art Direction award. Built with Cursor · Three.js.
 - [Quasar Saz](https://github.com/cleak/quasar-saz/releases/tag/v1.1) - Six-stage action game with a boss fight that Claude Code designed from a dog's random keystrokes. Built with Claude Code · Godot.
 - [Swingers](https://swing.offmylawn.com/) - Swing through a city with friends and compete to cause the most damage to critical infrastructure. Vibe Jam 2026 Most Unhinged award. Built with Three.js.
