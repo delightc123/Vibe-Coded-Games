@@ -62,6 +62,7 @@ A curated list of vibe-coded games: playable games built with AI coding agents l
 ### Racing & Vehicles
 
 - [APEX / Coast Run](https://apex-coast-run.mindblown.ai) - Need for Speed-inspired coastal arcade racer with dynamic physics and dual mobile/desktop performance modes. Built with Three.js.
+- [HOLESHOT](https://everygamemade.com/play/holeshot.html) - Stage on the tree, cut a light and shift a drag car yourself, with physics checked against quarter-mile formulas. Built with Claude Code · Three.js.
   <br><img src="images/apex-coast-run.webp" width="480" alt="APEX / Coast Run gameplay">
 - [Cycle](https://cycle.ui8.dev) - Stylized 3D urban bicycle riding simulation through responsive city streets. Built with Forge, GPT-6 Astra · Three.js.
   <br><img src="images/cycle.webp" width="480" alt="Cycle gameplay">
@@ -109,6 +110,9 @@ A curated list of vibe-coded games: playable games built with AI coding agents l
 
 - [AI2U - Guns & Girlfriends](https://helixngc7293.itch.io/gandg) - Red Alert-style strategy game with base building, nukes and three rival factions. AI Browser Game Jam 4 runner-up. Built with Claude Code, Gemini · Three.js.
 - [Alder Valley Rail Atelier](https://alder-valley-rail-atelier.nickfromlater.chatgpt.site) - Tactile model-railroad workshop simulation where you route trains, design track layouts, and manage miniature switches. Built with Astra · Three.js.
+- [ANTE](https://everygamemade.com/play/ante.html) - Poker-hand roguelike deckbuilder that shows exactly what a hand scores before you play it, with shareable seeds. Built with Claude Code.
+- [CLASP](https://everygamemade.com/play/swarm.html) - Boardless hex tile game with no captures where you surround the enemy Core to win. Built with Claude Code.
+- [MOGUL](https://everygamemade.com/play/mogul.html) - Buy, auction and trade property in online rooms or against self-play neural-net bots, with dice you can verify after the game. Built with Claude Code.
   <br><img src="images/alder-valley-rail-atelier.webp" width="480" alt="Alder Valley Rail Atelier gameplay">
 - [Almost Surgery](https://almostsurgery.ragim.dev/) - Darkly comic surgery sim where you saw, cut and electrocute patients for money. Vibe Jam 2026 Most Cursed award. Built with Godot.
 - [Emoji Sim](https://emojisim.com/) - Watch emoji villagers gather wood, wool and meat, and place buildings to grow the village. Built with HTML5 Canvas.
@@ -132,6 +136,7 @@ A curated list of vibe-coded games: playable games built with AI coding agents l
 - [Grid Golf](https://gridgolf.netlify.app/) - Grid-based golf where you pick one of eight directions, get random shot power and try to finish under par. Built with HTML5 Canvas.
 - [Ink Side Down](https://arkai.win/games/ink-side-down/) - Daily logic puzzle where you roll a cube so its inked face prints only the marked squares. Designed and coded end-to-end by an autonomous AI agent. Built with Claude Code · HTML5 Canvas.
 - [King's Gambit](https://medieval-3d-chess.rork.app/) - Medieval 3D chess simulation featuring animated piece battles and full browser playability.
+- [LEXEME](https://everygamemade.com/play/lexicon.html) - Crossword tile game against bots that run a real move generator over a 172,820-word public-domain dictionary. Built with Claude Code.
   <br><img src="images/kings-gambit.webp" width="480" alt="King's Gambit gameplay">
 - [One Step Late](https://arkai.win/games/one-step-late/) - Daily logic puzzle where your shadow repeats your previous move and walks into the holes you avoid. Designed and coded end-to-end by an autonomous AI agent. Built with Claude Code · HTML5 Canvas.
 - [Suika Game](https://suika.live/) - Drop and merge fruits in a physics jar to grow ever bigger fruits, with leaderboards. Built with Cursor, Claude · Matter.js.
